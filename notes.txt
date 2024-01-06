@@ -1,0 +1,9 @@
+ <h1>Welcome to Html</h1> -->
+   <script>
+        const heading  = document.createElement("h1");
+        heading.innerHTML = "Welcome to JS Heading <sapn> ssss</span>"
+        const para  = document.createElement("p");
+        para.innerHTML = "Welcome to JS Paragraph"
+        const root = document.getElementById("root");
+        root.appendChild(heading,para);
+    </script> 
