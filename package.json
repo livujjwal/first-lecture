@@ -1,0 +1,23 @@
+{
+  "name": "first-lecture",
+  "version": "1.0.0",
+  "description": "ready to take react on full",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/livujjwal/first-lecture.git"
+  },
+  "keywords": [],
+  "author": "Ujjwal Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/livujjwal/first-lecture/issue"
+  },
+  "homepage": "https://github.com/livujjwal/first-lecture#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
